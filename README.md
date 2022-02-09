@@ -1,1 +1,1 @@
-# cypree-wordpress-assignment
+# cypress-wordpress-assignment
